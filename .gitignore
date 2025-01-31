@@ -1,0 +1,5 @@
+# virtual environment holding the dependencies
+genai_concepts
+
+# environment file holding the secrets
+.env
