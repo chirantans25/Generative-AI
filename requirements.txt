@@ -4,3 +4,6 @@ colorama
 langgraph
 python-dotenv
 ipykernel
+langchain-community
+pypdf
+faiss-cpu
