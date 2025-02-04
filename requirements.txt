@@ -7,3 +7,4 @@ ipykernel
 langchain-community
 pypdf
 faiss-cpu
+langsmith
